@@ -1,0 +1,206 @@
+2019-01-07[16:51:27][INF]:==== CSERVER2TCP 服务启动 ====
+2019-01-07[16:51:27][INF]:m_bThreadStop is false
+2019-01-07[16:51:27][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:29][INF]:m_bThreadStop is false
+2019-01-07[16:51:29][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:31][INF]:m_bThreadStop is false
+2019-01-07[16:51:31][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:33][INF]:m_bThreadStop is false
+2019-01-07[16:51:33][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:35][INF]:m_bThreadStop is false
+2019-01-07[16:51:35][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:37][INF]:m_bThreadStop is false
+2019-01-07[16:51:37][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:39][INF]:m_bThreadStop is false
+2019-01-07[16:51:39][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:43][INF]:==== CSERVER2TCP 服务启动 ====
+2019-01-07[16:51:43][INF]:m_bThreadStop is false
+2019-01-07[16:51:43][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:45][INF]:m_bThreadStop is false
+2019-01-07[16:51:45][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:47][INF]:m_bThreadStop is false
+2019-01-07[16:51:47][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:49][INF]:m_bThreadStop is false
+2019-01-07[16:51:49][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:51][INF]:m_bThreadStop is false
+2019-01-07[16:51:51][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:53][INF]:m_bThreadStop is false
+2019-01-07[16:51:53][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:55][INF]:m_bThreadStop is false
+2019-01-07[16:51:55][INF]:ListenTaskMain socket bind err
+2019-01-07[16:51:59][INF]:==== CSERVER2TCP 服务启动 ====
+2019-01-07[16:51:59][INF]:m_bThreadStop is false
+2019-01-07[16:51:59][INF]:ListenTaskMain socket bind err
+2019-01-07[16:52:01][INF]:m_bThreadStop is false
+2019-01-07[16:52:01][INF]:ListenTaskMain socket bind err
+2019-01-07[16:52:03][INF]:m_bThreadStop is false
+2019-01-07[16:52:03][INF]:ListenTaskMain socket bind err
+2019-01-07[16:52:05][INF]:m_bThreadStop is false
+2019-01-07[16:52:05][INF]:ListenTaskMain socket bind err
+2019-01-07[16:52:07][INF]:m_bThreadStop is false
+2019-01-07[16:52:07][INF]:ListenTaskMain socket bind err
+2019-01-07[16:52:09][INF]:m_bThreadStop is false
+2019-01-07[16:52:09][INF]:ListenTaskMain socket bind err
+2019-01-07[16:52:11][INF]:m_bThreadStop is false
+2019-01-07[16:52:11][INF]:ListenTaskMain socket bind err
+2019-01-07[16:58:41][INF]:==== CSERVER2TCP 服务启动 ====
+2019-01-07[16:58:41][INF]:m_bThreadStop is false
+2019-01-07[16:58:41][INF]:finish socket bind listen
+2019-01-07[16:58:41][INF]:start thread MultiThreadFunc UdpFindThreadFunc
+2019-01-07[16:58:43][INF]:ListenTaskMain select 00000
+2019-01-07[16:58:44][INF]:m_bUninit FALSE
+2019-01-07[16:58:44][INF]:FindObjList(dwtempIP)==1
+2019-01-07[16:58:44][INF]:**** Accept2Process 服务开始 ***
+2019-01-07[16:58:44][INF]:before select,maxfd=913
+2019-01-07[16:58:44][INF]:end select
+2019-01-07[16:58:44][INF]:p_read_fd
+2019-01-07[16:58:44][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[16:58:44][INF]:recv common head success
+2019-01-07[16:58:44][INF]:CMD_LOGON
+2019-01-07[16:58:44][INF]:CMD_LOGON finish
+2019-01-07[16:58:44][INF]:finish OnRecvDataPro
+2019-01-07[16:58:44][INF]:before select,maxfd=913
+2019-01-07[16:58:46][INF]:ListenTaskMain select 00000
+2019-01-07[16:58:47][INF]:end select
+2019-01-07[16:58:47][INF]:ret == 0
+2019-01-07[16:58:47][INF]:before select,maxfd=913
+2019-01-07[16:58:48][INF]:ListenTaskMain select 00000
+2019-01-07[16:58:49][INF]:=========XSEARCH_COND_S size = 256
+2019-01-07[16:58:49][INF]:end select
+2019-01-07[16:58:49][INF]:p_read_fd
+2019-01-07[16:58:49][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[16:58:49][INF]:recv common head success
+2019-01-07[16:58:49][INF]:deal with cmd search open
+2019-01-07[16:58:49][INF]:finish OnRecvDataPro
+2019-01-07[16:58:49][INF]:before select,maxfd=913
+2019-01-07[16:58:49][INF]:end select
+2019-01-07[16:58:49][INF]:p_read_fd
+2019-01-07[16:58:49][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[16:58:49][INF]:recv common head success
+2019-01-07[16:58:49][INF]:deal with cmd search read
+2019-01-07[16:58:49][INF]:finish OnRecvDataPro
+2019-01-07[16:58:49][INF]:before select,maxfd=913
+2019-01-07[16:58:50][INF]:ListenTaskMain select 00000
+2019-01-07[16:58:52][INF]:end select
+2019-01-07[16:58:52][INF]:ret == 0
+2019-01-07[16:58:52][INF]:before select,maxfd=913
+2019-01-07[16:58:52][INF]:ListenTaskMain select 00000
+2019-01-07[16:58:54][INF]:ListenTaskMain select 00000
+2019-01-07[16:58:55][INF]:end select
+2019-01-07[16:58:55][INF]:ret == 0
+2019-01-07[16:58:55][INF]:before select,maxfd=913
+2019-01-07[16:58:56][INF]:ListenTaskMain select 00000
+2019-01-07[16:58:58][INF]:end select
+2019-01-07[16:58:58][INF]:ret == 0
+2019-01-07[16:58:58][INF]:before select,maxfd=913
+2019-01-07[16:58:58][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:00][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:01][INF]:end select
+2019-01-07[16:59:01][INF]:ret == 0
+2019-01-07[16:59:01][INF]:before select,maxfd=913
+2019-01-07[16:59:02][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:04][INF]:end select
+2019-01-07[16:59:04][INF]:ret == 0
+2019-01-07[16:59:04][INF]:before select,maxfd=913
+2019-01-07[16:59:04][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:06][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:07][INF]:end select
+2019-01-07[16:59:07][INF]:ret == 0
+2019-01-07[16:59:07][INF]:before select,maxfd=913
+2019-01-07[16:59:08][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:10][INF]:end select
+2019-01-07[16:59:10][INF]:ret == 0
+2019-01-07[16:59:10][INF]:before select,maxfd=913
+2019-01-07[16:59:10][INF]:end select
+2019-01-07[16:59:10][INF]:p_read_fd
+2019-01-07[16:59:10][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[16:59:10][INF]:recv common head success
+2019-01-07[16:59:10][INF]:CMD_HEARBEAT
+2019-01-07[16:59:10][INF]:finish OnRecvDataPro
+2019-01-07[16:59:10][INF]:before select,maxfd=913
+2019-01-07[16:59:10][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:12][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:13][INF]:end select
+2019-01-07[16:59:13][INF]:ret == 0
+2019-01-07[16:59:13][INF]:before select,maxfd=913
+2019-01-07[16:59:14][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:16][INF]:end select
+2019-01-07[16:59:16][INF]:ret == 0
+2019-01-07[16:59:16][INF]:before select,maxfd=913
+2019-01-07[16:59:16][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:18][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:19][INF]:end select
+2019-01-07[16:59:19][INF]:ret == 0
+2019-01-07[16:59:19][INF]:before select,maxfd=913
+2019-01-07[16:59:20][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:22][INF]:end select
+2019-01-07[16:59:22][INF]:ret == 0
+2019-01-07[16:59:22][INF]:before select,maxfd=913
+2019-01-07[16:59:22][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:24][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:25][INF]:end select
+2019-01-07[16:59:25][INF]:ret == 0
+2019-01-07[16:59:25][INF]:before select,maxfd=913
+2019-01-07[16:59:26][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:28][INF]:end select
+2019-01-07[16:59:28][INF]:ret == 0
+2019-01-07[16:59:28][INF]:before select,maxfd=913
+2019-01-07[16:59:28][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:30][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:31][INF]:end select
+2019-01-07[16:59:31][INF]:ret == 0
+2019-01-07[16:59:31][INF]:before select,maxfd=913
+2019-01-07[16:59:31][INF]:end select
+2019-01-07[16:59:31][INF]:p_read_fd
+2019-01-07[16:59:31][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[16:59:31][INF]:recv common head success
+2019-01-07[16:59:31][INF]:CMD_HEARBEAT
+2019-01-07[16:59:31][INF]:finish OnRecvDataPro
+2019-01-07[16:59:31][INF]:before select,maxfd=913
+2019-01-07[16:59:32][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:34][INF]:end select
+2019-01-07[16:59:34][INF]:ret == 0
+2019-01-07[16:59:34][INF]:before select,maxfd=913
+2019-01-07[16:59:34][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:36][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:37][INF]:end select
+2019-01-07[16:59:37][INF]:ret == 0
+2019-01-07[16:59:37][INF]:before select,maxfd=913
+2019-01-07[16:59:38][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:40][INF]:end select
+2019-01-07[16:59:40][INF]:ret == 0
+2019-01-07[16:59:40][INF]:before select,maxfd=913
+2019-01-07[16:59:40][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:42][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:43][INF]:end select
+2019-01-07[16:59:43][INF]:ret == 0
+2019-01-07[16:59:43][INF]:before select,maxfd=913
+2019-01-07[16:59:44][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:46][INF]:end select
+2019-01-07[16:59:46][INF]:ret == 0
+2019-01-07[16:59:46][INF]:before select,maxfd=913
+2019-01-07[16:59:46][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:48][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:49][INF]:end select
+2019-01-07[16:59:49][INF]:ret == 0
+2019-01-07[16:59:49][INF]:before select,maxfd=913
+2019-01-07[16:59:50][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:52][INF]:end select
+2019-01-07[16:59:52][INF]:ret == 0
+2019-01-07[16:59:52][INF]:before select,maxfd=913
+2019-01-07[16:59:52][INF]:end select
+2019-01-07[16:59:52][INF]:p_read_fd
+2019-01-07[16:59:52][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[16:59:52][INF]:recv common head success
+2019-01-07[16:59:52][INF]:CMD_HEARBEAT
+2019-01-07[16:59:52][INF]:finish OnRecvDataPro
+2019-01-07[16:59:52][INF]:before select,maxfd=913
+2019-01-07[16:59:52][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:54][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:55][INF]:end select
+2019-01-07[16:59:55][INF]:ret == 0
+2019-01-07[16:59:55][INF]:before select,maxfd=913
+2019-01-07[16:59:56][INF]:ListenTaskMain select 00000
+2019-01-07[16:59:58][INF]:end select
+2019-01-07[16:59:58][INF]:ret == 0
+2019-01-07[16:59:58][INF]:*** Accept2Process 服务停止 ***

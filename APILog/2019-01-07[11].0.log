@@ -1,0 +1,126 @@
+2019-01-07[11:40:30][INF]:==== CSERVER2TCP 服务启动 ====
+2019-01-07[11:40:30][INF]:m_bThreadStop is false
+2019-01-07[11:40:30][INF]:finish socket bind listen
+2019-01-07[11:40:30][INF]:start thread MultiThreadFunc UdpFindThreadFunc
+2019-01-07[11:40:32][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:34][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:35][INF]:m_bUninit FALSE
+2019-01-07[11:40:35][INF]:FindObjList(dwtempIP)==1
+2019-01-07[11:40:35][INF]:**** Accept2Process 服务开始 ***
+2019-01-07[11:40:35][INF]:before select,maxfd=917
+2019-01-07[11:40:35][INF]:end select
+2019-01-07[11:40:35][INF]:p_read_fd
+2019-01-07[11:40:35][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[11:40:35][INF]:recv common head success
+2019-01-07[11:40:35][INF]:CMD_LOGON
+2019-01-07[11:40:35][INF]:CMD_LOGON finish
+2019-01-07[11:40:35][INF]:finish OnRecvDataPro
+2019-01-07[11:40:35][INF]:before select,maxfd=917
+2019-01-07[11:40:37][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:38][INF]:end select
+2019-01-07[11:40:38][INF]:ret == 0
+2019-01-07[11:40:38][INF]:before select,maxfd=917
+2019-01-07[11:40:39][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:41][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:41][INF]:end select
+2019-01-07[11:40:41][INF]:ret == 0
+2019-01-07[11:40:41][INF]:before select,maxfd=917
+2019-01-07[11:40:43][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:44][INF]:end select
+2019-01-07[11:40:44][INF]:ret == 0
+2019-01-07[11:40:44][INF]:before select,maxfd=917
+2019-01-07[11:40:45][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:47][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:47][INF]:end select
+2019-01-07[11:40:47][INF]:ret == 0
+2019-01-07[11:40:47][INF]:before select,maxfd=917
+2019-01-07[11:40:49][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:50][INF]:=========XSEARCH_COND_S size = 256
+2019-01-07[11:40:50][INF]:end select
+2019-01-07[11:40:50][INF]:p_read_fd
+2019-01-07[11:40:50][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[11:40:50][INF]:recv common head success
+2019-01-07[11:40:50][INF]:deal with cmd search open
+2019-01-07[11:40:50][INF]:finish OnRecvDataPro
+2019-01-07[11:40:50][INF]:before select,maxfd=917
+2019-01-07[11:40:51][INF]:ListenTaskMain select 00000
+2019-01-07[11:40:53][INF]:end select
+2019-01-07[11:40:53][INF]:ret == 0
+2019-01-07[11:40:53][INF]:*** Accept2Process 服务停止 ***
+2019-01-07[11:59:39][INF]:==== CSERVER2TCP 服务启动 ====
+2019-01-07[11:59:39][INF]:m_bThreadStop is false
+2019-01-07[11:59:39][INF]:finish socket bind listen
+2019-01-07[11:59:39][INF]:start thread MultiThreadFunc UdpFindThreadFunc
+2019-01-07[11:59:41][INF]:ListenTaskMain select 00000
+2019-01-07[11:59:41][INF]:m_bUninit FALSE
+2019-01-07[11:59:41][INF]:FindObjList(dwtempIP)==1
+2019-01-07[11:59:41][INF]:**** Accept2Process 服务开始 ***
+2019-01-07[11:59:42][INF]:before select,maxfd=913
+2019-01-07[11:59:42][INF]:end select
+2019-01-07[11:59:42][INF]:p_read_fd
+2019-01-07[11:59:42][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[11:59:42][INF]:recv common head success
+2019-01-07[11:59:42][INF]:CMD_LOGON
+2019-01-07[11:59:42][INF]:CMD_LOGON finish
+2019-01-07[11:59:42][INF]:finish OnRecvDataPro
+2019-01-07[11:59:42][INF]:before select,maxfd=913
+2019-01-07[11:59:44][INF]:ListenTaskMain select 00000
+2019-01-07[11:59:45][INF]:end select
+2019-01-07[11:59:45][INF]:ret == 0
+2019-01-07[11:59:45][INF]:before select,maxfd=913
+2019-01-07[11:59:45][INF]:=========XSEARCH_COND_S size = 256
+2019-01-07[11:59:45][INF]:end select
+2019-01-07[11:59:45][INF]:p_read_fd
+2019-01-07[11:59:45][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[11:59:45][INF]:recv common head success
+2019-01-07[11:59:45][INF]:deal with cmd search open
+2019-01-07[11:59:45][INF]:finish OnRecvDataPro
+2019-01-07[11:59:45][INF]:before select,maxfd=913
+2019-01-07[11:59:46][INF]:ListenTaskMain select 00000
+2019-01-07[11:59:48][INF]:ListenTaskMain select 00000
+2019-01-07[11:59:48][INF]:end select
+2019-01-07[11:59:48][INF]:ret == 0
+2019-01-07[11:59:48][INF]:before select,maxfd=913
+2019-01-07[11:59:49][INF]:end select
+2019-01-07[11:59:49][INF]:p_read_fd
+2019-01-07[11:59:49][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[11:59:49][INF]:recv common head success
+2019-01-07[11:59:49][INF]:finish OnRecvDataPro
+2019-01-07[11:59:49][INF]:before select,maxfd=913
+2019-01-07[11:59:50][INF]:ListenTaskMain select 00000
+2019-01-07[11:59:52][INF]:end select
+2019-01-07[11:59:52][INF]:ret == 0
+2019-01-07[11:59:52][INF]:before select,maxfd=913
+2019-01-07[11:59:52][INF]:end select
+2019-01-07[11:59:52][INF]:p_read_fd
+2019-01-07[11:59:52][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[11:59:52][INF]:recv common head success
+2019-01-07[11:59:52][INF]:finish OnRecvDataPro
+2019-01-07[11:59:52][INF]:before select,maxfd=913
+2019-01-07[11:59:52][INF]:ListenTaskMain select 00000
+2019-01-07[11:59:54][INF]:ListenTaskMain select 00000
+2019-01-07[11:59:54][INF]:end select
+2019-01-07[11:59:54][INF]:p_read_fd
+2019-01-07[11:59:54][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[11:59:54][INF]:recv common head success
+2019-01-07[11:59:54][INF]:finish OnRecvDataPro
+2019-01-07[11:59:54][INF]:before select,maxfd=913
+2019-01-07[11:59:56][INF]:ListenTaskMain select 00000
+2019-01-07[11:59:57][INF]:end select
+2019-01-07[11:59:57][INF]:ret == 0
+2019-01-07[11:59:57][INF]:before select,maxfd=913
+2019-01-07[11:59:57][INF]:end select
+2019-01-07[11:59:57][INF]:p_read_fd
+2019-01-07[11:59:57][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[11:59:57][INF]:recv common head success
+2019-01-07[11:59:57][INF]:finish OnRecvDataPro
+2019-01-07[11:59:57][INF]:before select,maxfd=913
+2019-01-07[11:59:58][INF]:ListenTaskMain select 00000
+2019-01-07[11:59:59][INF]:=========XSEARCH_COND_S size = 256
+2019-01-07[11:59:59][INF]:end select
+2019-01-07[11:59:59][INF]:p_read_fd
+2019-01-07[11:59:59][INF]:FD_ISSET(fd_array[index], p_read_fd)
+2019-01-07[11:59:59][INF]:recv common head success
+2019-01-07[11:59:59][INF]:deal with cmd search open
+2019-01-07[11:59:59][INF]:finish OnRecvDataPro
+2019-01-07[11:59:59][INF]:before select,maxfd=913

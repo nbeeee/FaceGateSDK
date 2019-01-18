@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6de78a9-2fcd-45cb-8fce-4fb62b1d927f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-07[11].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-07[12].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-07[13].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-07[14].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-07[15].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-07[15].1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-07[16].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[09].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[10].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[11].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[12].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[13].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[14].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[15].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[16].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[17].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[18].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[19].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[20].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[21].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[22].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-08[23].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[00].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[01].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[02].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[03].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[04].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[05].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[06].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[07].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[08].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[09].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[10].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[11].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[12].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[13].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[14].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-09[15].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-15[16].0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APILog/2019-01-15[16].1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/ConfigOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/FaceGateApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/PersonOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/callback/FaceGateCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/constant/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/LOGON_INFO_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/MESSAGE_INFO_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/ReciveRecordUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/SearchTypeUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XCENTER_PARAM_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XDATE_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XPERSON_ITEM_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XRECORD_ITEM_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_COND_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_READ_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_RESULT_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSNAP_ITEM_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XTIME_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/util/BaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lebo/facegate/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/lebo/facegate/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/FaceGateApi-0.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/ConfigOperate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/FaceGateApi$LogonAcceptCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/FaceGateApi$RecvMessageCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/FaceGateApi$SearchCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/FaceGateApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/PersonOperate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/callback/FaceGateCallback$LogonAcceptCallbackImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/callback/FaceGateCallback$RecvMessageCallbackImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/callback/FaceGateCallback$SearchCallbackImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/callback/FaceGateCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/constant/Constant$CMD_TYPE_E.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/constant/Constant$RET_TYPE_E.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/constant/Constant$SEARCH_TYPE_E.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/constant/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/LOGON_INFO_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/LOGON_INFO_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/LOGON_INFO_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/MESSAGE_INFO_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/MESSAGE_INFO_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/MESSAGE_INFO_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/ReciveRecordUnion$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/ReciveRecordUnion$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/ReciveRecordUnion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/SearchTypeUnion$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/SearchTypeUnion$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/SearchTypeUnion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XCENTER_PARAM_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XCENTER_PARAM_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XCENTER_PARAM_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XDATE_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XDATE_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XDATE_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XPERSON_ITEM_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XPERSON_ITEM_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XPERSON_ITEM_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XRECORD_ITEM_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XRECORD_ITEM_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XRECORD_ITEM_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSEARCH_COND_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSEARCH_COND_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSEARCH_COND_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSEARCH_READ_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSEARCH_READ_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSEARCH_READ_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSEARCH_RESULT_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSEARCH_RESULT_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSEARCH_RESULT_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSNAP_ITEM_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSNAP_ITEM_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XSNAP_ITEM_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XTIME_S$ByReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XTIME_S$ByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/structure/XTIME_S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/util/BaseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/lebo/facegate/util/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.lebo.facegate.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/org.lebo.facegate.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/lebo/facegate/AppTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1444">
+              <caret line="87" column="48" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/PersonOperate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2964">
+              <caret line="175" column="30" selection-start-line="175" selection-start-column="30" selection-end-line="175" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_READ_S.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/FaceGateApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/SearchTypeUnion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/callback/FaceGateCallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1976">
+              <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/MESSAGE_INFO_S.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSNAP_ITEM_S.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FACE_GATE_SearchAll</find>
+      <find>CMD_GET_CENTER_PARAM</find>
+      <find>,</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/APILog/2019-01-03[17].3.log" />
+        <option value="$PROJECT_DIR$/APILog/2019-01-04[09].1.log" />
+        <option value="$PROJECT_DIR$/APILog/2019-01-04[10].1.log" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/util/Utils.java" />
+        <option value="$PROJECT_DIR$/APILog/2019-01-04[15].0.log" />
+        <option value="$PROJECT_DIR$/APILog/2019-01-04[16].2.log" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/util/BaseUtil.java" />
+        <option value="$PROJECT_DIR$/APILog/2019-01-05[10].0.log" />
+        <option value="$PROJECT_DIR$/APILog/2019-01-05[11].0.log" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/constant/Constant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/LOGON_INFO_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XDATE_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XTIME_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSNAP_ITEM_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XRECORD_ITEM_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_RESULT_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_READ_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XCENTER_PARAM_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/ClientDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/ConfigOperate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/MyUnion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_COND_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/entity/PersonInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/FaceGateApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/PersonOperate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XPERSON_ITEM_S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/ReciveRecordUnion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/MESSAGE_INFO_S.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lebo/facegate/callback/FaceGateCallback.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FaceGateApi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FaceGateApi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="798" />
+    <option name="y" value="-1" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FaceGateApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceGateApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceGateApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceGateApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceGateApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceGateApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceGateApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceGateApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceGateApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceGateApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facegate" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547781170226" />
+    <property name="last_opened_file_path" value="E:/git/java-project/biu" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Ideaworkspace\FaceGateApi\src\main\java\org\lebo\facegate\util" />
+      <recent name="E:\Ideaworkspace\FaceGateApi\src\main\java\org\lebo\facegate\constant" />
+      <recent name="E:\Ideaworkspace\FaceGateApi\src\main\java\org\lebo\facegate\callback" />
+      <recent name="E:\Ideaworkspace\FaceGateApi\src\main\java\org\lebo\facegate" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lebo.facegate.App" />
+      <module name="FaceGateApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebo.facegate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lebo.facegate.ClientDemo" />
+      <module name="FaceGateApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebo.facegate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.ClientDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6de78a9-2fcd-45cb-8fce-4fb62b1d927f" name="Default Changelist" comment="" />
+      <created>1546506703799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546506703799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3279396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3279396" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399137" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3279396" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.086794466" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-03[17].3.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-03[17].0.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[08].0.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[09].0.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[09].1.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[10].1.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[10].0.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[11].0.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[11].2.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[14].0.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[15].4.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[15].0.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[16].2.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-04[16].0.log" />
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-05[10].0.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/util/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-05[11].0.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/util/BaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="208" column="17" selection-start-line="208" selection-start-column="17" selection-end-line="208" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="2938" column="25" selection-start-line="2938" selection-start-column="25" selection-end-line="2938" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-05[17].0.log" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/LOGON_INFO_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XDATE_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APILog/2019-01-07[12].0.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="266" column="72" lean-forward="true" selection-start-line="266" selection-start-column="72" selection-end-line="266" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XCENTER_PARAM_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/repository/net/java/dev/jna/jna/4.5.0/jna-4.5.0-sources.jar!/com/sun/jna/Union.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding>
+            <element signature="e#2535#2543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/ConfigOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_RESULT_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person.bmp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XTIME_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="479" column="5" lean-forward="true" selection-start-line="479" selection-start-column="5" selection-end-line="479" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_COND_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/repository/net/java/dev/jna/jna/4.5.0/jna-4.5.0-sources.jar!/com/sun/jna/Structure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="2005" column="60" selection-start-line="2005" selection-start-column="60" selection-end-line="2005" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XRECORD_ITEM_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/lebo/facegate/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/entity/PersonInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/constant/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/ReciveRecordUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XPERSON_ITEM_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-827">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="87" column="48" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/PersonOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2964">
+          <caret line="175" column="30" selection-start-line="175" selection-start-column="30" selection-end-line="175" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/FaceGateApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/SearchTypeUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/callback/FaceGateCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/MESSAGE_INFO_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSNAP_ITEM_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lebo/facegate/structure/XSEARCH_READ_S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FaceGateApi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:3.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
